@@ -1,0 +1,16 @@
+{
+  "name": "@edgeflare/ng-oidc",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": ">=17.0.0",
+    "@angular/core": ">=17.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "license": "Apache-2.0",
+  "sideEffects": false,
+  "description": "oidc-client-ts wrapper for Angular and Capacitor",
+  "keywords": ["angular", "oidc", "capacitor"],
+  "author": "dev@edgeflare.io<dev@edgeflare.io>"
+}
